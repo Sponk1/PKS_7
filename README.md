@@ -1,16 +1,17 @@
-# practice7
+# Практика №7
+>Жлудов И.А.
+>
+>ЭФБО-03-22
 
-A new Flutter project.
+## Приложение
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/42e75e5e-97da-4e63-a410-3cbbf75965af)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/87ad2817-62ad-41cb-89d9-3061c1e96f2a)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/user-attachments/assets/86d145b2-e7ee-43f7-ad88-f6c1b614b57a)
+
+Эмулятор не запустился, как запуститься поменяю скрины
